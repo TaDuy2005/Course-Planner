@@ -1,0 +1,77 @@
+table {
+  border: 1px solid;
+  margin: 0 auto;
+
+}
+th, td {
+  font-family: 'Rajdhani', sans-serif;
+  text-align: center;
+  border: 1px solid;
+  padding: 5px 40px;
+}
+h1 {
+  position: relative;
+  margin: auto;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 7rem;
+  padding-top: 40px;
+}
+
+thead {
+  background-color: #AD8B73;
+}
+
+tbody{
+  background-color: #FFFFFF;
+}
+body {
+  margin: 0
+}
+
+.top-section {
+  background: #FFFBE9;
+}
+
+.middle-section {
+  background: #FFFBE9;
+}
+
+.bottom-section{
+  background: #FFFBE9;
+}
+
+.year {
+  font-size: 1.25rem;
+}
+
+.Swinburne-Logo-image {
+  position: absolute;
+  width: 10%;
+  height: auto;
+}
+
+.Razor-image {
+  background-color: #FFFBE9;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 10%;
+  height: auto;
+}
+
+.course-name {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.semester {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.copyright {
+  margin: 0 auto;
+  padding: 40px 0 30px;
+  text-align: center;
+}
