@@ -75,3 +75,13 @@ body {
   padding: 40px 0 30px;
   text-align: center;
 }
+
+.tick-image {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.study-image {
+  width: 1.25rem;
+  height: 1.25rem;
+}
